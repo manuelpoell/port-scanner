@@ -4,6 +4,7 @@
 *.dll
 *.so
 *.dylib
+port-scan
 
 # Test binary, built with `go test -c`
 *.test
